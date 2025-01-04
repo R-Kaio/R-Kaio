@@ -4,14 +4,14 @@
 
 Tenho 21 anos e adoro codificar e resolver problemas profundos usando tecnologia de ponta. Meu foco principal é o desenvolvimento back-end, criando aplicativos que impactam milhares de usuários.
 
-I am also a student at [42 | Rio](https://42.rio/), a Software Engineering school with [54 campus in 31 countries](https://www.42network.org/42-schools/).
+Eu sou um aluno da [Uespi](https://uespi.br/)),reconhecida por sua atuação no ensino superior público e na formação de profissionais em diversas áreas.
 
-* 🌍  I'm based in Rio de Janeiro, Brazil
-* ✉️  You can contact me at [guilhermomasid@gmail.com](mailto:guilhermomasid@gmail.com)
-* 🚀  I'm currently freelancing for companies as a Full Stack Software Developer
-* 🧠 I'm learning low-level programming, functional programming, and scalable, resilient application architecture.
-* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-* ⚡  I love sports and my favorite is Crossfit
+* 🌍 Estou localizado em Piauí, Brasil.
+* ✉️  Você pode me encontrar em [riankaio1222@gmail.com](mailto:riankaio1222@gmail.com)
+* 🚀  Estou atualmente desenvolvendo projetos na Universidade para melhorar meus conhecimentos.
+* 🧠 Estou aprendendo Flutter, programação funcional e arquitetura de aplicações escaláveis e resilientes.
+* 🤝  Estou aberto a colaborar em projetos que tenham um impacto significativo na vida das pessoas.
+* ⚡  Adoro esportes e meu favorito é basquete.
 
 #### Skills
 
