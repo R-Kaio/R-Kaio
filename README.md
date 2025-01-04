@@ -4,7 +4,7 @@
 
 Tenho 21 anos e adoro codificar e resolver problemas profundos usando tecnologia de ponta. Meu foco principal é o desenvolvimento back-end, criando aplicativos que impactam milhares de usuários.
 
-Eu sou um aluno da [Uespi](https://uespi.br/),reconhecida por sua atuação no ensino superior público e na formação de profissionais em diversas áreas.
+Eu sou um aluno da [Uespi](https://uespi.br/), reconhecida por sua atuação no ensino superior público e na formação de profissionais em diversas áreas.
 
 * 🌍 Estou localizado em Piauí, Brasil.
 * ✉️  Você pode me encontrar em [riankaio1222@gmail.com](mailto:riankaio1222@gmail.com)
