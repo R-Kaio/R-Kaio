@@ -15,7 +15,7 @@ Sou estudante de **Ciência da Computação** na [Universidade Estadual do Piau�
 - 🚀 Atualmente desenvolvendo projetos acadêmicos e pessoais para aprofundar meus conhecimentos
 - 🧠 Estudando **arquitetura de software**, organização de sistemas e boas práticas
 - 🤝 Aberto a colaborações em projetos que gerem impacto positivo
-- ⚡ Hobbies: gosto de platinar jogos 🎮
+- ⚡ Hobbies: gosto de platinar jogos
 
 ---
 
