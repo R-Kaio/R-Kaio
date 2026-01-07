@@ -2,14 +2,14 @@
 
 #### Estudante de Programação
 
-Tenho 21 anos meu foco principal é o desenvolvimento back-end, criando sistemas/aplicativos/sites que impactam milhares de usuários.
+Tenho 22 anos meu foco principal é o desenvolvimento back-end, criando sistemas/aplicativos/sites que impactam milhares de usuários.
 
 Eu sou um aluno da [Uespi](https://uespi.br/), reconhecida por sua atuação no ensino superior público e na formação de profissionais em diversas áreas.
 
 * 🌍 Estou localizado em Piauí, Brasil.
 * ✉️  Você pode me encontrar em [riankaio1222@gmail.com](mailto:riankaio1222@gmail.com)
 * 🚀  Estou atualmente desenvolvendo projetos na Universidade para melhorar meus conhecimentos.
-* 🧠  Estou melhorando minhas habilidades de arquitetura de aplicações escaláveis.
+* 🧠  Estou melhorando minhas habilidades de arquitetura.
 * 🤝  Estou aberto a colaborar em projetos que tenham um impacto significativo na vida das pessoas.
 * ⚡  Sobre hobbies pode ser dizer que gosto muito de platinar jogos.
   
