@@ -1,29 +1,45 @@
-## Olá 👋 meu nome é Kaio
+## Olá 👋, meu nome é Kaio
 
-#### Estudante de Programação
+### Estudante de Ciência da Computação & Engenharia de Software
 
-Tenho 22 anos meu foco principal é o desenvolvimento back-end, criando sistemas/aplicativos/sites que impactam milhares de usuários.
+Tenho 22 anos e meu foco principal é o **desenvolvimento back-end**, com interesse em arquitetura de software, boas práticas e criação de sistemas, aplicações e plataformas que gerem impacto real para usuários.
 
-Eu sou um aluno da [Uespi](https://uespi.br/), reconhecida por sua atuação no ensino superior público e na formação de profissionais em diversas áreas.
+Sou estudante de **Ciência da Computação** na [Universidade Estadual do Piauí – UESPI](https://uespi.br/) e de **Engenharia de Software** pela [UNOPAR](https://www.unopar.com.br/), buscando constantemente evoluir tanto na base teórica quanto na prática profissional.
 
-* 🌍 Estou localizado em Piauí, Brasil.
-* ✉️  Você pode me encontrar em [riankaio1222@gmail.com](mailto:riankaio1222@gmail.com)
-* 🚀  Estou atualmente desenvolvendo projetos na Universidade para melhorar meus conhecimentos.
-* 🧠  Estou melhorando minhas habilidades de arquitetura.
-* 🤝  Estou aberto a colaborar em projetos que tenham um impacto significativo na vida das pessoas.
-* ⚡  Sobre hobbies pode ser dizer que gosto muito de platinar jogos.
-  
-#### Habilidades
+---
+
+### 📍 Informações
+
+- 🌍 Localização: **Piauí, Brasil**
+- ✉️ Contato: [riankaio1222@gmail.com](mailto:riankaio1222@gmail.com)
+- 🚀 Atualmente desenvolvendo projetos acadêmicos e pessoais para aprofundar meus conhecimentos
+- 🧠 Estudando **arquitetura de software**, organização de sistemas e boas práticas
+- 🤝 Aberto a colaborações em projetos que gerem impacto positivo
+- ⚡ Hobbies: gosto de platinar jogos 🎮
+
+---
+
+### 🛠️ Habilidades Técnicas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="32" alt="dart logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" alt="flutter logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="32" alt="html logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="32" alt="css logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="32" alt="js logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="32" alt="docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="C logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="32" alt="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="VS Code" />
 </div>
+
+---
+
+### 🎯 Objetivo Profissional
+
+Consolidar-me como **desenvolvedor back-end**, atuando no desenvolvimento de sistemas escaláveis, bem estruturados e alinhados às boas práticas de engenharia de software, contribuindo para soluções que gerem valor real.
+
+---
+
+*Este perfil é utilizado para compartilhar meus projetos acadêmicos, estudos práticos e iniciativas pessoais relacionadas ao desenvolvimento de software.*
