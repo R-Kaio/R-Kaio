@@ -36,10 +36,4 @@ Sou estudante de **Ciência da Computação** na [Universidade Estadual do Piau�
 
 ---
 
-### 🎯 Objetivo Profissional
-
-Consolidar-me como **desenvolvedor back-end**, atuando no desenvolvimento de sistemas escaláveis, bem estruturados e alinhados às boas práticas de engenharia de software, contribuindo para soluções que gerem valor real.
-
----
-
 *Este perfil é utilizado para compartilhar meus projetos acadêmicos, estudos práticos e iniciativas pessoais relacionadas ao desenvolvimento de software.*
